@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "3D Printers Website",
+      "description": "For SIT124 I made a function website to document the different functionalities nad uses of 3D printers in word press",
+      "image": "/src/assets/images/proj1.PNG"
+    },
+    {
+      "id": 2,
+      "name": "Shop for Urban Treasures",
+      "description": "In SIT120 I created a partial shopfront for a fictional business Urban Treasures, coded using HTML, Vue and CSS",
+      "image": "/src/assets/images/proj2.PNG"
+    },
+    {
+      "id": 3,
+      "name": "Program for Data Analysis",
+      "description": "I also made a complex program which utilises machine learning to take massive datasets and create ML models to predict fraud",
+      "image": "/src/assets/images/proj3.PNG"
+    }
+  ]
+}
+
