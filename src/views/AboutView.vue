@@ -18,7 +18,7 @@
       </p>
     </div>
     <div class="profile-image">
-      <img src="../assets/images/my face.png" alt="Your Name" class="hover-effect">
+      <img src="../assets/images/myface.png" alt="Your Name" class="hover-effect">
     </div>
   </section>
   
